@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phone Store</string>
+    <string name="hp_name">Nama Handphone</string>
+    <string name="harga">Harga Hanphone</string>
+    <string name="description">Deskripsi</string>
+    <string name="buy">Beli</string>
+    <string name="nama_pembeli">Nama Pembeli</string>
+    <string name="alamat">Alamat Pembeli</string>
+    <string name="jumlah">Jumlah Beli</string>
+    <string name="no_kartu">Nomor Kartu</string>
+</resources>
